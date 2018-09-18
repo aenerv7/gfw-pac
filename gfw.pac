@@ -2831,6 +2831,11 @@ var cnips = [
     22
   ], 
   [
+    1736048640, 
+    4294901760, 
+    22
+  ], 
+  [
     1736507392, 
     4294901760, 
     22
@@ -15689,9 +15694,9 @@ var domains = {
   "zzux.com": 1
 };
 
-var proxy = 'PROXY 127.0.0.1:1087; SOCKS5 127.0.0.1:1086; SOCKS 127.0.0.1:1086;';
+var proxy = "PROXY 127.0.0.1:1087; SOCKS5 127.0.0.1:1086; SOCKS 127.0.0.1:1086;";
 
-var direct = 'DIRECT;';
+var direct = "DIRECT;";
 
 var hasOwnProperty = Object.hasOwnProperty;
 
